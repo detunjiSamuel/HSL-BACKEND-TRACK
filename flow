@@ -1,0 +1,11 @@
+
+
+AUTH 
+POST
+LIKE 
+FOLLOW
+
+USER    /user/d
+    surname
+    firstname
+    password
